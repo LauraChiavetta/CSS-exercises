@@ -10,8 +10,8 @@ body {
 }
 
 .ball {
-    width:var(--wid-hei);
+    width: var(--wid-hei);
     height: var(--wid-hei);
-    background-color: var(--wid-hei);
+    background-color: var(--bg-orange);
     border-radius: var(--radius);
 }
